@@ -5,6 +5,6 @@ This project is based on [dimensionality reduction](https://github.com/alirezado
 
 #### Table of contents
 
-* [A very very very short note on Isomorphisms](#a-very-very-very-short-note-on-isomorphisms)
-  * [Query 1](#query-1)
+* [A very very very short note on Isomorphisms](https://github.com/alirezadoostimehr/dimensionality-reduction/tree/main/A%20very%20very%20very%20short%20note%20on%20Isomorphisms)
+  * [Problem 1](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/A%20very%20very%20very%20short%20note%20on%20Isomorphisms/problem-1.md)
 
