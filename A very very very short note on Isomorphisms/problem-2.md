@@ -1,3 +1,10 @@
+# Problem statement
+Find an isomorphism $\alpha : V \rightarrow K^n$ where $\ker(\alpha) = \ ${0}
+
+*Hypotheses: V is a finite dimensional space over the field K.*
+
+# Proof: 
+
 We can construct an isomorphism $\alpha: V \rightarrow K^n$ as follows:
 
 Let ${v_1,v_2,\ldots,v_n}$ be a basis for $V$. Since $V$ is finite-dimensional, we can assume that $n$ is finite. Define $\alpha: V \rightarrow K^n$ by
