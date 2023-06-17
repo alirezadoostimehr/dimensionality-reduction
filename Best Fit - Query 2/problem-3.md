@@ -2,8 +2,6 @@
 Show that $V$ is isomorphic to $C$.
 
 # Solution
-If $C$ is the field of complex numbers:
-
 Let $V$ be a vector space over the field $\mathbb{R}$, and let $C$ be the field of complex numbers. We want to show that $V$ is isomorphic to $C$.
 
 Since $C$ is a field, it is a one-dimensional vector space over itself. Therefore, any non-zero complex number can serve as a basis for $C$. Let us choose the complex number $1$ as the basis for $C$.
