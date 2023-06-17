@@ -3,7 +3,7 @@ Show that $V$ is isomorphic to $K^n$ where $dim(V) = n$.
 
 *Hypotheses: V is a finite dimensional space over the field K.*
 
-# Solution: 
+# Solution
 
  To begin with, it is essential to establish that $K^n$ is a vector space, as this is a fundamental requirement for demonstrating the isomorphism to $V$.
 
