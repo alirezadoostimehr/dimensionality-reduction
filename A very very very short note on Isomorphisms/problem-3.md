@@ -1,7 +1,7 @@
 # Problem statement
 Is α a Homomorphism?
 
-# Proof: 
+# Solution: 
 
 Yes, the isomorphism $\alpha$ defined in the previous problem is a homomorphism as well. This is because:
 
