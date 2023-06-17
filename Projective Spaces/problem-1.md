@@ -1,7 +1,7 @@
 # Problem statement
 Show that $\Pi_{i=1}^n K_i$ is also a field where $\Pi_{i} K_i$ is the Cartesian product of $K_i$ s.
 
-*Hypotheses: Let K_1, K_2, ..., K_n be n different fields.*
+*Hypotheses: Let* $K_1, K_2, \ldots, K_n$ *be n different fields.*
 
 # Solution
 Let $K_1, K_2, \ldots, K_n$ be $n$ different fields. We want to show that the Cartesian product $\Pi_{i=1}^{n} K_i$ is also a field.
