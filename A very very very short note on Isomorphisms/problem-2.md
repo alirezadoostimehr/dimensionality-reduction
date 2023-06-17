@@ -3,7 +3,7 @@ Find an isomorphism $\alpha : V \rightarrow K^n$ where $\ker(\alpha) = \ ${0}
 
 *Hypotheses: V is a finite dimensional space over the field K.*
 
-# Proof: 
+# Solution: 
 
 We can construct an isomorphism $\alpha: V \rightarrow K^n$ as follows:
 
