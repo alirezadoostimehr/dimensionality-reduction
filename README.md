@@ -1,6 +1,6 @@
 # Dimensionality Reduction Project
 
-This project is based on [dimensionality reduction](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/LinearAlgebra.pdf) which is final project(part one) of linear algebra course instructed by Dr. Mehdi Nadjafikhah.
+This project is based on [dimensionality reduction](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/LinearAlgebra.pdf) which is final project(part one) of linear algebra course instructed by Dr. Mehdi Nadjafikhah. And [Mohammad Saeed Arvenaghi](https://github.com/SaeedARV) and [Alireza Doostimehr](https://github.com/alirezadoostimehr) executed this project.
 
 
 #### Table of contents
