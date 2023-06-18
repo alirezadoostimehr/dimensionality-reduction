@@ -15,6 +15,7 @@ This project is based on [LinearAlgebra.pdf](https://github.com/alirezadoostimeh
   * [Problem 2](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Recenter%20Data/problem-2.md)
   * [Problem 3](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Recenter%20Data/problem-3.md)
   * [Problem 4](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Recenter%20Data/problem-4.md)
+  * [Problem 5](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Recenter%20Data/problem-5.md)
 * [Projective Spaces](https://github.com/alirezadoostimehr/dimensionality-reduction/tree/main/Projective%20Spaces)
   * [Problem 1](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Projective%20Spaces/problem-1.md)
   * [Problem 2](https://github.com/alirezadoostimehr/dimensionality-reduction/blob/main/Projective%20Spaces/problem-2.md)
