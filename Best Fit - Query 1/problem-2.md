@@ -6,7 +6,7 @@ Project all points on the line $C$ using projective transformation mentioned in 
 
 # Solution
 
-We know $C$ is the line defined as $C =$ { $\alpha * X | \alpha \in K$ }, where $\alpha$ is a fixed scalar in $K$ and $X$ is a nonzero vector in $V$. Let $P$ be the projection defined on the space $V$ to the line $C$ using the projective transformation $\alpha_j (k_1, k_2, ..., k_n) = k_j$.
+We know $C$ is the line defined as $C =$ { $\alpha * X | \alpha \in K$ }, where $\alpha$ is a scalar in $K$ and $X$ is a fixed nonzero vector in $V$. Let $P$ be the projection defined on the space $V$ to the line $C$ using the projective transformation $\alpha_j (k_1, k_2, ..., k_n) = k_j$.
 
 To project a point $(v_1, v_2, ..., v_n)$ in $V$ onto the line $C$, we can compute the coordinates of the projected point as 
 
