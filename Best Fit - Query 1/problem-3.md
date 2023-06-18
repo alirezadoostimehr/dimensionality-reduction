@@ -6,4 +6,12 @@ Find a basis $B$ for the projective space $C$.
 
 # Solution
 
-For constructing the basis $B$ for this projective space $C$, we use the fact that every point $V$ in it is $\alpha * X% so we can guess that $X$ is enough for the basis of this projective space $C$.
+For constructing the basis $B$ for this projective space $C$, we make our base for every $K_j$ solely.
+
+$$B = \{ B_1, B_2, ..., B_N \} $$
+
+which every $B_j$ is
+
+$$B_j = \begin{pmatrix} 0 & 0 & \cdots & 1 & \cdots & 0 \end{pmatrix}$$ 
+
+which $j$ th entry is 1.
